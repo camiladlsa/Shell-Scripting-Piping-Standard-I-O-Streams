@@ -2,7 +2,7 @@
 
 How to on needed packages to run code in MacOs: [https://www.macworld.co.uk/how-to/learn-set-up-java-programming-environment-in-os-x-3636924/]
 
-**Do not go any further until you have installed all the necessarity tools to run Java programs, otherwise you will encounter plenty of errors.**
+**Do not go any further until you have installed all the necessary tools to run Java programs, otherwise you will encounter plenty of errors.**
 
 ## How TO RUN FILE.java 
 
