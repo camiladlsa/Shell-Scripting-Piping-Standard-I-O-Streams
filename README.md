@@ -12,7 +12,7 @@ How to on needed packages to run code in MacOs: [https://www.macworld.co.uk/how-
 
 3. Type in the _Terminal_: git clone https://github.com/camiladlsa/Shell-Scripting-Piping-Standard-I-O-Streams.git 
 
-4. After you have cloned the repo type in the _Terminal_ the following commands:
+4. After you have cloned the repo, type in the _Terminal_ the following commands:
 
 5. $ javac Filename.java - **THIS IS TO COMPILE THE .java FILE**
 
