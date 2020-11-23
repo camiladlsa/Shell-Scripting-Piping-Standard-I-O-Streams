@@ -18,6 +18,4 @@ How to on needed packages to run code in MacOs: [https://www.macworld.co.uk/how-
 
 6. $ java Filename - **THIS IS TO RUN THE EXECUTABLE .java FILE**
 
-**MAKE SURE YOU HAVE CHANGED THE DIRECTORY TO WHERE THE REPO HAS BEEN CLONED, OTHERWISE THERE WILL BE A FILE LOCATION ERROR**
-
 7. Program should run. 
